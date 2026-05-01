@@ -1,0 +1,1 @@
+This is a project on the topic "Risk resilience in Supply chain management using Robust Network Design (Network theory". Two Network Models have been built here, one based on the Lean model and the other built on the Robust model. Then a node was removed, and the effect was compared.
