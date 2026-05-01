@@ -1,0 +1,6 @@
+Disrupting Critical Node: DC1
+
+--------------------- COMPARATIVE ANALYSIS --------------------------------------
+Network      Fixed Cost      Max Capacity      Post-Failure Cap     Resilience %
+   Lean         $190              50                  25              50.0%
+ Robust         $345             105                  70              66.7%
